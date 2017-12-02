@@ -92,8 +92,14 @@ a {
         background-color: rgba(255, 255, 255, 0.3); }
         #mainNav .nav-link.active:hover {
           color: white; } }
-.bbb{
+#about{
   background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgb(106, 100, 121)), to(black));
+}
+#contact{
+  background: url("../img/222.jpg") no-repeat bottom center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 .masthead {
   display: table;
